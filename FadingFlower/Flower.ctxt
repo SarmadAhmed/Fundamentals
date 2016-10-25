@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Flower
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Flower\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Flower()
+comment2.params=startingAge
+comment2.target=Flower(int)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ Flower\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment4.params=
+comment4.target=void\ fade()
+comment5.params=
+comment5.target=void\ checkToRemoveObject()
+comment6.params=
+comment6.target=void\ selectFlowerImage()
+numComments=7
